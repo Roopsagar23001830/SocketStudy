@@ -55,6 +55,4 @@ Socket programming finds applications in various domains, including web developm
 
 
 ## Result:
-Thus the study of Socket Programming Completed Successfully
-##output:
-![WhatsApp Image 2024-01-17 at 17 24 59_1e480164](https://github.com/Roopsagar23001830/SocketStudy/assets/145972515/e0ab6b7e-ea18-48a9-ab24-a83a5d3d2bbf)
+Thus the study of Socket Programming Completed Successfully.
